@@ -13,11 +13,17 @@
     "framer-motion": "^12.38.0",
     "geist": "^1.7.0",
     "lenis": "^1.3.21",
-    "lightningcss-darwin-arm64": "^1.33.0",
     "lightningcss-wasm": "^1.33.0",
     "next": "16.2.2",
     "react": "19.2.4",
     "react-dom": "19.2.4"
+  },
+  "optionalDependencies": {
+    "lightningcss-darwin-arm64": "^1.33.0",
+    "lightningcss-darwin-x64": "^1.33.0",
+    "lightningcss-linux-x64-gnu": "^1.33.0",
+    "lightningcss-linux-arm64-gnu": "^1.33.0",
+    "lightningcss-win32-x64-msvc": "^1.33.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
