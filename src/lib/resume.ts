@@ -46,7 +46,7 @@ export const RESUME_DATA = {
     tagline: "AI / ML Engineer & Systems Builder",
     heroHeadline: "Building Next-Gen AI Agents & Language Models",
     location: "Bangalore, India",
-    email: "amoghmg007@gmail.com",
+    email: "amogh7365@gmail.com",
     phone: "+91-8217801592",
     linkedin: "https://linkedin.com/in/amogh-m-g",
     github: "https://github.com/amoghmg007",
